@@ -9,4 +9,7 @@
   <action id="MaximizeActiveDialog">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="shift p" />
+  </action>
 </keymap>
