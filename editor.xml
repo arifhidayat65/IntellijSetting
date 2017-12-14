@@ -4,4 +4,5 @@
     <option name="FONT_FAMILY" value="D2Coding" />
     <option name="FONT_SCALE" value="1.25" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateApp="true" />
 </application>
