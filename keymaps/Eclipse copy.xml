@@ -9,7 +9,16 @@
   <action id="MaximizeActiveDialog">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift p" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
 </keymap>
