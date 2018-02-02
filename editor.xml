@@ -2,4 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="D2Coding" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateApp="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
 </application>
