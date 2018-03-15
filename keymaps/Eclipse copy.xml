@@ -6,4 +6,41 @@
   <action id="ActivityTracker-Popup">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorPreviousWord" />
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="FindBugs.ShowQuickSearch" />
+  <action id="MaximizeActiveDialog">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
+  <action id="Replace" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
 </keymap>
