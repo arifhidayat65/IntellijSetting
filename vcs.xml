@@ -58,6 +58,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="leemingyu05@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mingyu-lee/til" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\07. intellij_workspace" />
