@@ -27,6 +27,9 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
   </action>
