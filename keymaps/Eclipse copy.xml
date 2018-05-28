@@ -6,6 +6,9 @@
   <action id="ActivityTracker-Popup">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
   <action id="EditorNextWord" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -23,6 +26,9 @@
   </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />

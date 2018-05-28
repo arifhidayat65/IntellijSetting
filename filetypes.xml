@@ -12,9 +12,9 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="pythonic_enumerate" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping pattern="index" type="ThymeleafExpressions" />
+      <mapping pattern="elasticsearch_outline" type="Markdown" />
+      <mapping pattern="pythonic_list_comprehension" type="PLAIN_TEXT" />
+      <mapping pattern="h2_configuration" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
