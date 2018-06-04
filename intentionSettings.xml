@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="Other/Convert absolute path to relative" />
   </component>
 </application>
