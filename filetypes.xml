@@ -13,8 +13,9 @@
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="elasticsearch_outline" type="Markdown" />
-      <mapping pattern="pythonic_list_comprehension" type="PLAIN_TEXT" />
+      <mapping pattern="pythonic_map_reduce" type="PLAIN_TEXT" />
       <mapping pattern="h2_configuration" type="PLAIN_TEXT" />
+      <mapping pattern="pythonic_list_comprehension" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
