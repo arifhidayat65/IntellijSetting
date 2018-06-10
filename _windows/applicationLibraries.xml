@@ -1,11 +1,6 @@
 <application>
   <component name="libraryTable">
     <library name="postcode.v2" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ssl.daumcdn.net_dmaps_map_js_init_postcode.v2.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ssl.daumcdn.net_dmaps_map_js_init_postcode.v2.js" />
       </CLASSES>
