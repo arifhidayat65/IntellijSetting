@@ -70,8 +70,12 @@
           <option name="url" value="https://github.com/mingyu-lee/nixmash-spring.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mingyu-lee/vuejs-java-starter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\ideaProjects" />
+    <option name="cloneParentDir" value="D:\07. intellij_workspace" />
   </component>
 </application>
