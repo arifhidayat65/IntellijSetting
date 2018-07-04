@@ -70,4 +70,7 @@
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="Unwrap" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
 </keymap>
