@@ -25,7 +25,6 @@
     </formatting-settings>
   </DBN-SQL>
   <MarkdownNavigatorCodeStyleSettings>
-    <option name="SMART_EDIT_TABLES" value="true" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <DBN-PSQL>
