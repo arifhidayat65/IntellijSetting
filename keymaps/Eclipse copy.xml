@@ -33,6 +33,9 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindBugs.ShowQuickSearch" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
   <action id="JumpToLastWindow">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
@@ -67,10 +70,11 @@
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="alt v" />
+    <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="Unwrap" />
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="alt f8" />
   </action>
+  <action id="context.load" />
 </keymap>
