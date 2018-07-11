@@ -1,5 +1,13 @@
 <application>
   <component name="ToStringTemplates">
-    <option name="defaultTempalteName" value="StringBuilder (JDK 1.5)" />
+    <option name="defaultTempalteName" value="StringBuilderJsonFormat" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="StringBuilderJsonFormat" />
+          <option name="template" value="public java.lang.String toString() {&#10;final java.lang.StringBuilder sb = new java.lang.StringBuilder(&quot;$classname{&quot;);&#10;#set ($i = 0)&#10;#foreach ($member in $members)&#10;#if ($i == 0)&#10;sb.append(&quot;##&#10;#else&#10;sb.append(&quot;, ##&#10;#end&#10;#if ($member.string)&#10;$member.name:'&quot;)##&#10;#else&#10;$member.name:&quot;)##&#10;#end&#10;#if ($member.primitiveArray || $member.objectArray)&#10;.append(java.util.Arrays.toString($member.name));&#10;#elseif ($member.string)&#10;.append($member.accessor).append('\'');&#10;#else&#10;.append($member.accessor);&#10;#end&#10;#set ($i = $i + 1)&#10;#end&#10;sb.append('}');&#10;return sb.toString();&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
   </component>
 </application>
