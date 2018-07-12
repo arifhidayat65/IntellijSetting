@@ -29,6 +29,9 @@
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="EmmetEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
