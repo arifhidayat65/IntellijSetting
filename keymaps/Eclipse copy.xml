@@ -1,4 +1,10 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateDBBrowserToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="ActivateDBExecutionConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
@@ -6,8 +12,14 @@
   <action id="ActivityTracker-Popup">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
+  <action id="DBNavigator.Actions.MainMenu.OpenSQLConsole">
+    <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="EditorNextWord" />
   <action id="EditorNextWordInDifferentHumpsMode">
@@ -17,10 +29,19 @@
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="EmmetEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindBugs.ShowQuickSearch" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
   <action id="MaximizeActiveDialog">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
@@ -29,6 +50,9 @@
   </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
@@ -45,8 +69,15 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt page_up" />
   </action>
-  <action id="Replace" />
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="alt v" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="alt f3" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="Unwrap" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
+  <action id="context.load" />
 </keymap>
