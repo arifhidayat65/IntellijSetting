@@ -98,6 +98,10 @@
           <option name="url" value="https://gitlab.com/codesquad-hack-6/for-developer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/everit-org/i18n-props-xls-converter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\07.workspace\01.ideaProjects" />
