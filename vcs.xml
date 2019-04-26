@@ -110,8 +110,12 @@
           <option name="url" value="https://github.com/zepinos/ChatServer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/naufaluster/hibernate-mbanking" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\07.workspace\01.ideaProjects" />
+    <option name="cloneParentDir" value="D:\Dev" />
   </component>
 </application>
