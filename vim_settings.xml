@@ -279,11 +279,11 @@
       <file name="$USER_HOME$/webservice/iminibank-naufal-arif/src/main/java/Implements/WalletImpl.java" timestamp="1554100692233">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557122804902">
+      <file name="/Dummy.txt" timestamp="1557127586777">
         <mark key="v" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/webservice/E-BankingApps/src/com/dev/ebank/entity/LoginCustomer.java" timestamp="1553433986558">
         <mark key="[" line="13" column="27" />
@@ -684,6 +684,9 @@
       <file name="$USER_HOME$/IdeaProjects/tokobuku/src/config/MyConnection.java" timestamp="1553400945867">
         <mark key="[" line="16" column="33" />
       </file>
+      <file name="D:/Dev/fajri-kusrana-micro-bank-spring-boot/liquibase/db.customer.changelog.xml" timestamp="1557127600251">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/New Method Body.txt.ft" timestamp="1552797062737">
         <mark key="[" line="0" column="0" />
       </file>
@@ -836,6 +839,9 @@
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="D:/Dev/fajri-kusrana-micro-bank-spring-boot/pom.xml" timestamp="1557128343014">
+        <mark key="." line="66" column="21" />
+      </file>
       <file name="$USER_HOME$/webservice/belajar-java-mysql/src/belajar/java/mysql/ThreadPoolExecutor/Masuk.java" timestamp="1553573212987">
         <mark key="[" line="7" column="19" />
       </file>
@@ -929,7 +935,7 @@
       <file name="/JUnit4 Test Method.txt.ft" timestamp="1552797060695">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1557122798963">
+      <file name="/fragment.java" timestamp="1557127481843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/TestNG Test Method.txt.ft" timestamp="1552797065171">
@@ -1100,6 +1106,7 @@
       <file name="/New Kotlin Function Body.txt.ft" timestamp="1552797062593">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Dev/fajri-kusrana-micro-bank-spring-boot/liquibase/db.changelog-master.xml" timestamp="1557126541447" />
       <file name="/Hybris Solr Console" timestamp="1556298399936">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1230,7 +1237,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmxpcXVpYmFzZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bGlxdWliYXNlLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My40LjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIC4uLgogICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmxpcXVpYmFzZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmxpcXVpYmFzZS1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjQuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxwcm9wZXJ0eUZpbGU+c3JjL21haW4vcmVzb3VyY2VzL2xpcXVpYmFzZS5wcm9wZXJ0aWVzPC9wcm9wZXJ0eUZpbGU+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgIDwvcGx1Z2lucz4=</text>
       </register>
       <register name="e" type="4">
         <text>w</text>
@@ -1242,15 +1249,21 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGUpIHsKICAgICAgICA=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmxpcXVpYmFzZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bGlxdWliYXNlLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My40LjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIC4uLgogICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmxpcXVpYmFzZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmxpcXVpYmFzZS1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjQuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxwcm9wZXJ0eUZpbGU+c3JjL21haW4vcmVzb3VyY2VzL2xpcXVpYmFzZS5wcm9wZXJ0aWVzPC9wcm9wZXJ0eUZpbGU+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgIDwvcGx1Z2lucz4=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgcHJvdGVjdGVkIFN0cmluZyBnZXRNZXNzYWdlKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcubGlxdWliYXNlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5saXF1aWJhc2UtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjQuMTwvdmVyc2lvbj4KICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8cHJvcGVydHlGaWxlPnNyYy9tYWluL3Jlc291cmNlcy9saXF1aWJhc2UucHJvcGVydGllczwvcHJvcGVydHlGaWxlPgogICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgPC9wbHVnaW4+</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgZ2V0TWVzc2FnZSgpIHsKICAgICAgICByZXR1cm4gZ2V0TWVzc2FnZSgpOwogICAgfQ==</text>
+        <text encoding="base64">IGUpIHsKICAgICAgICA=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgcHJvdGVjdGVkIFN0cmluZyBnZXRNZXNzYWdlKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgZ2V0TWVzc2FnZSgpIHsKICAgICAgICByZXR1cm4gZ2V0TWVzc2FnZSgpOwogICAgfQ==</text>
+      </register>
+      <register name="6" type="4">
         <text>public Exception(String code) {
         this.message = message;
         this.noticeerror = noticeerror;
@@ -1271,91 +1284,46 @@
     public void setNoticeerror(String noticeerror) {
         this.noticeerror = noticeerror;</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBVc2VyRXhjZXB0aW9uSGFuZGxlcihTdHJpbmcgbWVzc2FnZSkgewoKICAgIH0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>extends UserExceptionHandler  {
     public (String message){
         super(message);
     }</text>
       </register>
-      <register name="7" type="4">
-        <text>public int getCustomer_number() {
-        return customer_number;
-    }
-
-    public void setCustomer_number(int customer_number) {
-        this.customer_number = customer_number;
-    }
-
-    public String getFirstname() {
-        return firstname;
-    }
-
-    public void setFirstname(String firstname) {
-        this.firstname = firstname;
-    }
-
-    public String getLastname() {
-        return lastname;
-    }
-
-    public void setLastname(String lastname) {
-        this.lastname = lastname;
-    }
-
-    public String getBirthday() {
-        return birthday;
-    }
-
-    public void setBirthday(String birthday) {
-        this.birthday = birthday;
-    }</text>
-      </register>
-      <register name="8" type="4">
-        <text>public int getCustomer_number() {
-        return customer_number;
-    }
-
-    public void setCustomer_number(int customer_number) {
-        this.customer_number = customer_number;
-    }
-
-    public String getFirstname() {
-        return firstname;
-    }
-
-    public void setFirstname(String firstname) {
-        this.firstname = firstname;
-    }
-
-    public String getLastname() {
-        return lastname;
-    }
-
-    public void setLastname(String lastname) {
-        this.lastname = lastname;
-    }
-
-    public String getBirthday() {
-        return birthday;
-    }
-
-    public void setBirthday(String birthday) {
-        this.birthday = birthday;
-    }</text>
-      </register>
       <register name="9" type="4">
-        <text>{
-        return &quot;CustomerEntity{&quot; +
-                &quot;cif=&quot; + cif +
-                &quot;, firstname='&quot; + firstname + '\'' +
-                &quot;, lastname='&quot; + lastname + '\'' +
-                &quot;, birthdate='&quot; + birthdate + '\'' +
-                &quot;, username='&quot; + username + '\'' +
-                &quot;, password='&quot; + password + '\'' +
-                '}';
+        <text>public int getCustomer_number() {
+        return customer_number;
+    }
+
+    public void setCustomer_number(int customer_number) {
+        this.customer_number = customer_number;
+    }
+
+    public String getFirstname() {
+        return firstname;
+    }
+
+    public void setFirstname(String firstname) {
+        this.firstname = firstname;
+    }
+
+    public String getLastname() {
+        return lastname;
+    }
+
+    public void setLastname(String lastname) {
+        this.lastname = lastname;
+    }
+
+    public String getBirthday() {
+        return birthday;
+    }
+
+    public void setBirthday(String birthday) {
+        this.birthday = birthday;
     }</text>
       </register>
     </registers>
