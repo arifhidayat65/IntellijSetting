@@ -4,11 +4,12 @@
     <property name="created">2016-12-07T17:00:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2018-04-26T16:49:02</property>
+    <property name="modified">2019-05-06T13:45:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="D2Coding" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <attributes>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
       <value>
