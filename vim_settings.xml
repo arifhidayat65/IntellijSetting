@@ -228,7 +228,6 @@
       <file name="$USER_HOME$/webservice/springboot-sample/src/main/resources/application.properties" timestamp="1554783198912">
         <mark key="[" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/webservice/Wallet-Project/src/main/java/com/sti/bootcamp/WalletProject/model/Wallet.java" timestamp="1556299504447" />
       <file name="/JUnit4 Parameters Method.txt.ft" timestamp="1552797059630">
         <mark key="[" line="0" column="0" />
       </file>
@@ -280,7 +279,7 @@
       <file name="$USER_HOME$/webservice/iminibank-naufal-arif/src/main/java/Implements/WalletImpl.java" timestamp="1554100692233">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556301212503">
+      <file name="/Dummy.txt" timestamp="1557115645179">
         <mark key="v" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -477,6 +476,9 @@
       </file>
       <file name="$USER_HOME$/Downloads/demo/myappsebanking/src/main/java/com/dev/myappsebanking/controller/CounterUtil.java" timestamp="1554477350670">
         <mark key="[" line="5" column="24" />
+      </file>
+      <file name="D:/Dev/fajri-kusrana-micro-bank-spring-boot/src/main/resources/application.properties" timestamp="1557116010232">
+        <mark key="[" line="3" column="33" />
       </file>
       <file name="/Groovy Interface.txt.ft" timestamp="1552796971610">
         <mark key="[" line="0" column="0" />
@@ -676,7 +678,6 @@
       <file name="/New Kotlin Property Initializer.txt.ft" timestamp="1552797062694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Dev/naufal/Wallet-Project/src/main/java/com/sti/bootcamp/WalletProject/config/BeanConfig.java" timestamp="1556301973774" />
       <file name="$USER_HOME$/Downloads/com.sti.bootcamp-0.0.1-SNAPSHOT/com.sti.bootcamp-0.0.1-SNAPSHOT/src/main/java/com/sti/bootcamp/dao/impl/TransactioDaoImpl.java" timestamp="1556279728516">
         <mark key="[" line="16" column="0" />
       </file>
