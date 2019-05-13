@@ -122,6 +122,10 @@
           <option name="url" value="http://git.sqrtechno.com" />
           <option name="userName" value="arifhidayat1010@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/luqni/abank-mobileApp-ReactNative.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Dev" />
