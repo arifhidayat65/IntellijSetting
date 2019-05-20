@@ -1,5 +1,7 @@
 <application>
   <component name="HybrisApplicationSettings">
+    <option name="foldingEnabled" value="false" />
+    <option name="useSmartFolding" value="false" />
     <option name="usedActions">
       <set>
         <option value="BUILD_PROJECT" />
