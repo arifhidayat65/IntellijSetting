@@ -138,6 +138,10 @@
           <option name="url" value="https://git.sqrtechno.com/bootcamp-2/test-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sqrtechno.com/bootcamp-2/wallet_final_project_be_03.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Dev" />
