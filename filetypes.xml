@@ -2,12 +2,23 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="WebMessengerController" type="CLASS" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="elasticsearch_outline" type="Markdown" />
-      <mapping pattern="pythonic_list_comprehension" type="PLAIN_TEXT" />
       <mapping pattern="h2_configuration" type="PLAIN_TEXT" />
       <mapping pattern="KocomCommonMapper" type="PLAIN_TEXT" />
+      <mapping pattern="pythonic_list_comprehension" type="PLAIN_TEXT" />
       <mapping pattern="pythonic_map_reduce" type="PLAIN_TEXT" />
       <mapping ext="project-properties" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
