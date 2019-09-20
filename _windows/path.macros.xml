@@ -2,7 +2,7 @@
   <component name="PathMacrosImpl">
     <macro name="GIT" value="C:/Program Files/Git/mingw64/bin" />
     <macro name="KOTLIN_BUNDLED" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5\plugins\Kotlin\kotlinc" />
-    <macro name="MAVEN_REPOSITORY" value="C:/Users/STI/.m2/repository" />
+    <macro name="MAVEN_REPOSITORY" value="C:\Users\Enigmacamp\.m2\repository" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
     <ignoredMacro name="LINE" />
